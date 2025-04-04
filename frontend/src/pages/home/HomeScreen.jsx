@@ -92,4 +92,4 @@ const { trendingContent } = useGetTrendingContent();
   );
 };
 
-export default HomeScreen
+export default HomeScreen;
